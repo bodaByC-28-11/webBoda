@@ -1,0 +1,25 @@
+title: "Evento Verde"
+description: "Sitio web del evento"
+url: ""
+baseurl: ""
+lang: "es"
+timezone: "Europe/Madrid"
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

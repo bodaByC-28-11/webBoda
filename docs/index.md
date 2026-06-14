@@ -1,20 +1,30 @@
 ---
-layout: default
 title: "Inicio"
 permalink: /
+subtitle: "Un encuentro para celebrar juntos"
 ---
 
-# Bienvenido al Evento
-
-<div style="background-color: #f7f9f4; padding: 20px; border-left: 5px solid #556B2F;">
+<div class="hero">
   Una experiencia inspirada en la paz, el crecimiento y la sostenibilidad.
 </div>
 
-## ¿Por qué este evento?
+## Por que este evento
+
 El olivo es un símbolo universal de sabiduría y paz. Este evento busca crear un espacio de conexión donde lo orgánico y lo digital conviven en armonía.
 
-- **Conexión:** Red de contactos con valor humano.
-- **Sostenibilidad:** Compromiso con el entorno.
-- **Minimalismo:** Claridad en las ideas.
+<div class="card-grid">
+  <article class="card">
+    <h3>Conexion</h3>
+    <p>Red de contactos con valor humano.</p>
+  </article>
+  <article class="card">
+    <h3>Sostenibilidad</h3>
+    <p>Compromiso real con el entorno.</p>
+  </article>
+  <article class="card">
+    <h3>Minimalismo</h3>
+    <p>Claridad en las ideas y en la experiencia.</p>
+  </article>
+</div>
 
-[Ver Agenda del Evento](/agenda)
+[Ver agenda del evento](/agenda/)

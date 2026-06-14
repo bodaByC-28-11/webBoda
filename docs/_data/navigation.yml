@@ -1,0 +1,9 @@
+main:
+  - title: "Inicio"
+    url: "/"
+  - title: "Agenda"
+    url: "/agenda/"
+  - title: "Lugar"
+    url: "/lugar/"
+  - title: "Contacto"
+    url: "/contacto/"
