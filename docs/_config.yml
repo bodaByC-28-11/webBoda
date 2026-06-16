@@ -1,7 +1,9 @@
-title: "Evento Verde"
-description: "Sitio web del evento"
-url: ""
-baseurl: ""
+title: "Bea & Chus"
+description: "Nos casamos y queremos celebrarlo contigo"
+wedding_date: "28 de noviembre de 2026"
+wedding_location: "A Coruna"
+url: "https://bodabyc-28-11.github.io"
+baseurl: "/webBoda"
 lang: "es"
 timezone: "Europe/Madrid"
 

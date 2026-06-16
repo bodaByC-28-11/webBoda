@@ -1,0 +1,9 @@
+Your RubyGems version (3.0.3.1) has a bug that prevents `required_ruby_version` from working for Bundler. Any scripts that use `gem install bundler` will break as soon as Bundler drops support for your Ruby version. Please upgrade RubyGems to avoid future breakage and silence this warning by running `gem update --system 3.2.3`
+Configuration file: /Users/mmjesu6/Desktop/evento/webBoda/docs/_config.yml
+            Source: /Users/mmjesu6/Desktop/evento/webBoda/docs
+       Destination: /Users/mmjesu6/Desktop/evento/webBoda/docs/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 2.234 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.

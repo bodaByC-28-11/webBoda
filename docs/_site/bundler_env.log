@@ -1,0 +1,56 @@
+## Environment
+
+```
+Bundler       1.17.2
+  Platforms   ruby, universal-darwin-25
+Ruby          2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin25]
+  Full Path   /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby
+  Config Dir  /Library/Ruby/Site
+RubyGems      3.0.3.1
+  Gem Home    /Library/Ruby/Gems/2.6.0
+  Gem Path    /Users/mmjesu6/.gem/ruby/2.6.0:/Library/Ruby/Gems/2.6.0:/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0
+  User Path   /Users/mmjesu6/.gem/ruby/2.6.0
+  Bin Dir     /usr/local/bin
+Tools         
+  Git         2.50.1 (Apple Git-155)
+  RVM         not installed
+  rbenv       not installed
+  chruby      not installed
+```
+
+## Bundler Build Metadata
+
+```
+Built At          2018-12-19
+Git SHA           3fc4de72b
+Released Version  false
+```
+
+## Bundler settings
+
+```
+set
+  Set for the current user (/Users/mmjesu6/.bundle/config): "path vendor/bundle"
+```
+
+## Gemfile
+
+### Gemfile
+
+```ruby
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.8"
+
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-seo-tag", "~> 2.8"
+end
+```
+
+### Gemfile.lock
+
+```
+<No /Users/mmjesu6/Desktop/evento/webBoda/docs/Gemfile.lock found>
+```

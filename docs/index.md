@@ -1,30 +1,54 @@
 ---
 title: "Inicio"
 permalink: /
-subtitle: "Un encuentro para celebrar juntos"
+subtitle: "Info basica de la boda"
 ---
 
-<div class="hero">
-  Una experiencia inspirada en la paz, el crecimiento y la sostenibilidad.
-</div>
+<section class="home-hero">
+	<div class="home-intro">
+		<h2>
+			Bea <span class="amp">&amp;</span> Chus
+		</h2>
+		<div class="hero-separator" aria-hidden="true"></div>
+		<p class="hero-date">28 de noviembre de 2026</p>
+		<div class="hero-separator" aria-hidden="true"></div>
+		<div class="hero-copy">
+		<p class="hero-lead">
+			Después de una relación <em>breve pero intensa</em>, hemos decidido dar un paso más:
+			<strong>nos casamos</strong> y queremos celebrarlo con la gente a la que queremos... pero como no pueden, te invitamos a ti.
+		</p>
+		<p>
+			Ahora fuera de broma, celebramos <strong>toda una vida juntos</strong>: un camino largo lleno de <em>viajes, aventuras, anécdotas</em>, alguna que otra peleílla, y sobre todo, lleno de personas a las que queremos y que han marcado parte de nuestra vida. <strong>Tú eres una de esas personas tan especiales</strong>.
+			Por tanto, ¿qué mejor manera de <em>oficializar nuestra nueva familia</em> que juntando a <strong>la gente que queremos</strong>?
+		</p>
+		<p>
+			Todo esto es muy bonito, pero ahora vamos a lo importante: <strong>LA FIESTA</strong>.
+			En esta página encontréis todo lo que necesitáis saber, pero también nos ayuda a nosotros para que <strong>no falte ningún detalle</strong>, y que sea lo más <em>divertido y cómodo</em> para todos.
+			Por eso os pedimos que nos ayudéis con el formulario.
+			La idea es juntar a la <em>crème de la crème</em> de nuestra gente, y que de ahí salga un <strong>fiestón</strong>. Así que sin más dilación, <strong>todo el mundo a volarse la peluca</strong>.
+		</p>
 
-## Por que este evento
+		<img class="fiesta-inline" src="{{ '/assets/images/FIESTA.png' | relative_url }}" alt="Foto de fiesta" loading="lazy">
 
-El olivo es un símbolo universal de sabiduría y paz. Este evento busca crear un espacio de conexión donde lo orgánico y lo digital conviven en armonía.
+		<p>
+			De verdad, muchas gracias por asistir, nos hace muy felices.
+			Gracias por acompañarnos y seguir siendo parte de nuestra historia.
+			Os quieren,
+			Bea y Chus
+		</p>
+		</div>
 
-<div class="card-grid">
-  <article class="card">
-    <h3>Conexion</h3>
-    <p>Red de contactos con valor humano.</p>
-  </article>
-  <article class="card">
-    <h3>Sostenibilidad</h3>
-    <p>Compromiso real con el entorno.</p>
-  </article>
-  <article class="card">
-    <h3>Minimalismo</h3>
-    <p>Claridad en las ideas y en la experiencia.</p>
-  </article>
-</div>
+		<h3>Todo en un vistazo</h3>
+		<ul class="quick-links">
+			<li><a href="{{ '/dress-code/' | relative_url }}">Dress code</a></li>
+			<li><a href="{{ '/confirmacion/' | relative_url }}">Confirmacion</a></li>
+			<li><a href="{{ '/forasteros/' | relative_url }}">Forasteros</a></li>
+			<li><a href="{{ '/tips/' | relative_url }}">Tips</a></li>
+			<li><a href="{{ '/regalitis/' | relative_url }}">Regalitis</a></li>
+		</ul>
+	</div>
 
-[Ver agenda del evento](/agenda/)
+	<figure class="home-image">
+		<img src="{{ '/assets/images/CASASION.jpg' | relative_url }}" alt="Foto vertical de la pareja" loading="eager">
+	</figure>
+</section>
