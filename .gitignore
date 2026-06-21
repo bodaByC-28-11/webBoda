@@ -1,0 +1,23 @@
+# macOS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jekyll build output and cache
+docs/_site/
+docs/.jekyll-cache/
+
+# Bundler local install path and local config
+docs/vendor/
+docs/.bundle/
+
+# Logs and temporary build artifacts
+*.log
+docs/*.log
+
+# Common backup/temp files
+*.tmp
+*.swp
+*.swo
+*~
