@@ -6,6 +6,7 @@ Thumbs.db
 
 # Jekyll build output and cache
 docs/_site/
+docs/_config.local.yml
 docs/.jekyll-cache/
 
 # Bundler local install path and local config
