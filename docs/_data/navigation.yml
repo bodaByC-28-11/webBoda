@@ -1,6 +1,8 @@
 main:
   - title: "Inicio"
     url: "/"
+  - title: "Agenda"
+    url: "/agenda/"
   - title: "Dress code"
     url: "/dress-code/"
   - title: "Confirmacion"

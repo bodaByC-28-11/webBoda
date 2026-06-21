@@ -6,12 +6,19 @@ subtitle: "Info basica de la boda"
 
 <section class="home-hero">
 	<div class="home-intro">
-		<h2>
-			Bea <span class="amp">&amp;</span> Chus
-		</h2>
-		<div class="hero-separator" aria-hidden="true"></div>
-		<p class="hero-date">28 de noviembre de 2026</p>
-		<div class="hero-separator" aria-hidden="true"></div>
+		<div class="home-heading">
+			<h2>
+				Bea <span class="amp">&amp;</span> Chus
+			</h2>
+			<div class="hero-separator" aria-hidden="true"></div>
+			<p class="hero-date">28 de noviembre de 2026</p>
+			<div class="hero-separator" aria-hidden="true"></div>
+		</div>
+
+		<figure class="home-image">
+			<img src="{{ '/assets/images/CASASION.jpg' | relative_url }}" alt="Foto vertical de la pareja" loading="eager">
+		</figure>
+
 		<div class="hero-copy">
 		<p class="hero-lead">
 			Después de una relación <em>breve pero intensa</em>, hemos decidido dar un paso más:
@@ -47,8 +54,4 @@ subtitle: "Info basica de la boda"
 			<li><a href="{{ '/regalitis/' | relative_url }}">Regalitis</a></li>
 		</ul>
 	</div>
-
-	<figure class="home-image">
-		<img src="{{ '/assets/images/CASASION.jpg' | relative_url }}" alt="Foto vertical de la pareja" loading="eager">
-	</figure>
 </section>
