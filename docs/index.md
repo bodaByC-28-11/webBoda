@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Inicio"
 permalink: /
 subtitle: "Info basica de la boda"
@@ -39,19 +40,15 @@ subtitle: "Info basica de la boda"
 
 		<p>
 			De verdad, muchas gracias por asistir, nos hace muy felices.
+		</p>	
 			Gracias por acompañarnos y seguir siendo parte de nuestra historia.
+		<p>
 			Os quieren,
+		</p>
+		<p>
 			Bea y Chus
 		</p>
 		</div>
 
-		<h3>Todo en un vistazo</h3>
-		<ul class="quick-links">
-			<li><a href="{{ '/dress-code/' | relative_url }}">Dress code</a></li>
-			<li><a href="{{ '/confirmacion/' | relative_url }}">Confirmacion</a></li>
-			<li><a href="{{ '/forasteros/' | relative_url }}">Forasteros</a></li>
-			<li><a href="{{ '/tips/' | relative_url }}">Tips</a></li>
-			<li><a href="{{ '/regalitis/' | relative_url }}">Regalitis</a></li>
-		</ul>
 	</div>
 </section>

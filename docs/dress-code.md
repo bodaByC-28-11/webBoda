@@ -4,8 +4,6 @@ permalink: /dress-code/
 subtitle: "Como venir vestidos"
 ---
 
-## Dress code
-
 El dress-code no deja lugar a la sorpresa. Vestimenta tipo bodas, ni más ni menos. 
 La pamela esta permitida, los tocados también. Los chalecos por supuesto, corbatas incluso las sugerimos! pajarita si te atreves, tacones siempre que te permitan dar el foie en la pista (o que traigas zapato cómodo). 
 
@@ -44,7 +42,7 @@ A continuación, os dejamos un sencillo juego para que podáis comprobar si el c
 	<p id="dress-checker-status" class="dress-checker-status" aria-live="polite"></p>
 
 	<figure class="dress-checker-result">
-		<img id="dress-checker-image" src="/assets/images/FIESTA.png" alt="Resultado del color elegido" />
+		<img id="dress-checker-image" src="/assets/images/beacontentan.jpg" alt="Resultado del color elegido" />
 	</figure>
 </div>
 
@@ -182,7 +180,7 @@ A continuación, os dejamos un sencillo juego para que podáis comprobar si el c
 			hexLabel.textContent = "#" + toHex(r) + toHex(g) + toHex(b);
 		}
 
-		var WHITE_THRESHOLD = 220;
+		var WHITE_THRESHOLD = 245;
 
 		sliderR.addEventListener("input", updatePreview);
 		sliderG.addEventListener("input", updatePreview);
@@ -198,10 +196,10 @@ A continuación, os dejamos un sencillo juego para que podáis comprobar si el c
 
 			if (isTooCloseToWhite) {
 				status.textContent = "Ese color (" + hex.toUpperCase() + ") esta demasiado cerca del blanco. Mejor elige otro.";
-				image.src = "/assets/images/finca-mal-dress.jpg";
+				image.src = "/assets/images/Enfadada.jpg";
 			} else {
 				status.textContent = "Perfecto, " + hex.toUpperCase() + " pasa el control de dress code.";
-				image.src = "/assets/images/FIESTA.png";
+				image.src = "/assets/images/beacontentan.jpg";
 			}
 		});
 

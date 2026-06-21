@@ -4,8 +4,6 @@ permalink: /confirmacion/
 subtitle: "Confirma tu asistencia"
 ---
 
-## Confirmacion
-
 Por favor rellena el formulario para confirmar tu asistencia.
 
 <div style="position:relative; width:100%; padding-bottom:75%; height:0; overflow:hidden;">
