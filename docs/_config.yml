@@ -3,7 +3,7 @@ description: "Nos casamos y queremos celebrarlo contigo"
 wedding_date: "28 de noviembre de 2026"
 wedding_location: "A Coruna"
 url: "https://bodabyc-28-11.github.io"
-baseurl: "/webBoda"
+baseurl: ""
 lang: "es"
 timezone: "Europe/Madrid"
 
