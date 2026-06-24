@@ -18,6 +18,9 @@ subtitle: "Info basica de la boda"
 
 		<figure class="home-image">
 			<img src="{{ '/assets/images/CASASION.jpg' | relative_url }}" alt="Foto vertical de la pareja" loading="eager">
+			<div class="home-cta">
+				<a class="cta-confirm" href="{{ '/confirmacion/' | relative_url }}">Confirmar asistencia</a>
+			</div>
 		</figure>
 
 		<div class="hero-copy">
