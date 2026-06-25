@@ -14,3 +14,7 @@ Por favor rellena el formulario para confirmar tu asistencia.
     loading="lazy">
   </iframe>
 </div>
+
+<p style="margin-top: 1.2rem;">
+  <a class="cta-confirm" href="{{ '/una-cosa-mas/' | relative_url }}">Una cosa más...</a>
+</p>
