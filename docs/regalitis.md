@@ -13,7 +13,7 @@ El mejor regalo que podéis hacernos es estar presentes en nuestra boda, **disfr
 
 Como llevamos ya tiempo viviendo juntos, tenemos la casa equipada con todo lo que os podáis imaginar (¡y más!).
 
-Si aun así queréis tener un detalle con nosotros, os agradeceríamos mucho que nos ayudaseis con nuestra "operación hipoteca" y la reforma de la casa (antes de que se venga abajo, ¡o eso dice el arquitecto!). Así, además de en nuestra boda, también seréis partícipes de nuestro otro gran proyecto; cuando nos visitéis, sabréis que un poco de ese espacio es gracias a vosotros.
+Si aún así queréis tener un detalle con nosotros, os agradeceríamos mucho que nos ayudaseis con nuestro viaje de novios, e incluso con la reforma de la casa (antes de que se venga abajo, ¡o eso dice el arquitecto!). Así, cuando nos visitéis, podréis señalar con orgullo: "Esa pletina de anclaje, esa mangueta de cobre, ese trasdosado, esa junta de la culata... son gracias a mí".  
 
 Esto es solo una orientación; por supuesto, cualquier detalle hecho con cariño será recibido con muchísimo amor.
 

@@ -4,10 +4,11 @@ permalink: /dress-code/
 subtitle: "Como venir vestidos"
 ---
 
-El dress-code no deja lugar a la sorpresa. Vestimenta tipo bodas, ni más ni menos. 
-La pamela esta permitida, los tocados también. Los chalecos por supuesto, corbatas incluso las sugerimos! pajarita si te atreves, tacones siempre que te permitan dar el foie en la pista (o que traigas zapato cómodo). 
+El dress-code no deja lugar a la sorpresa. Vestimenta tipo bodas, ni más ni menos.
 
-Creo que lo sabéis todo pero para despistados, el blanco o similares esta prohibido! Tenemos contratado a personal que disparará con temperas de colores a cualquier persona que vaya vestida de ese color. 
+Prendas permitidas: pamelas, tocados, chalecos (por supuesto), corbatas (incluso las sugerimos) y pajaritas si te atreves. Los tacones son bienvenidos, siempre que te permitan bailar en la pista.
+
+Creo que lo sabéis todo pero para despistados: ¡el blanco o similares está prohibido! Tenemos contratado a personal que disparará con temperas de colores a cualquier persona que vaya vestida de ese color. 
 A continuación, os dejamos un sencillo juego para que podáis comprobar si el color es apropiado. 
 
 <div class="dress-checker" id="dress-checker">
