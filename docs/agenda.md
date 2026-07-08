@@ -20,10 +20,9 @@ subtitle: "Horarios del 28 de noviembre"
 | :--- | :--- | :--- |
 | 12:00 | Recibimiento | Llegada e ingreso a la iglesia |
 | 12:30 | <span class="agenda-item agenda-item-ceremony">Ceremonia</span> | Real Iglesia Parroquial de Santiago y San Juan Bautista |
-| 14:15 | <span class="agenda-item agenda-item-bus">Salida en autobús</span> | Traslado al lugar del banquete |
-| 15:00 | <span class="agenda-item agenda-item-cocktail">Cóctel</span> | Inicio del cóctel previo al banquete |
-| 21:00 | <span class="agenda-item agenda-item-bus">Primer autobús de retorno</span> | Para quien desee irse antes |
-| 23:00 - 00:00 | <span class="agenda-item agenda-item-bus">Autobús final de retorno</span> | Último traslado disponible |
+| 13:30 - 14:00 | <span class="agenda-item agenda-item-bus">Salida en autobús</span> | Traslado al lugar del banquete |
+| 14:30 - 15:00 | <span class="agenda-item agenda-item-cocktail">Cóctel</span> | Inicio del cóctel previo al banquete |
+| 23:30 - 00:00 | <span class="agenda-item agenda-item-bus">Autobús final de retorno</span> | Último traslado disponible |
 
 ---
 
