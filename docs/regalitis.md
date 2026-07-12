@@ -1,7 +1,7 @@
 ---
 title: "Regalos"
 permalink: /regalos/
-subtitle: "Lo más importantes es compartir el día con vosotros"
+subtitle: "Lo más importante es compartir el día con vosotros"
 ---
 
 
