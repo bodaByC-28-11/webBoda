@@ -8,7 +8,7 @@ El dress-code no deja lugar a la sorpresa. Vestimenta tipo bodas, ni más ni men
 
 Prendas permitidas: pamelas, tocados, chalecos (por supuesto), corbatas (incluso las sugerimos) y pajaritas si te atreves. Los tacones son bienvenidos, siempre que te permitan bailar en la pista.
 
-Creo que lo sabéis todo pero para despistados: ¡el blanco o similares está prohibido! Tenemos contratado a personal que disparará con temperas de colores a cualquier persona que vaya vestida de ese color. 
+Creemos que lo sabéis todo pero para despistados: ¡el blanco o similares está prohibido! Tenemos contratado a personal que disparará con temperas de colores a cualquier persona que vaya vestida de ese color. 
 A continuación, os dejamos un sencillo juego para que podáis comprobar si el color es apropiado. 
 
 <div class="dress-checker" id="dress-checker">
