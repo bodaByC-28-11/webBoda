@@ -1,11 +1,11 @@
 ---
 title: "Regalos"
 permalink: /regalos/
-subtitle: "Lo más importantes es compartir el día contigo"
+subtitle: "Lo más importantes es compartir el día con vosotros"
 ---
 
 
-El mejor regalo que podéis hacernos es estar presentes en nuestra boda, **disfrutar con nosotros y darlo todo en la barra libre**. Vuestra compañía es lo único que nos hace falta para que el día sea perfecto.
+El mejor regalo que podéis hacernos es estar presentes en nuestra boda, **disfrutar con nosotros y darlo todo en el baile y la barra libre**. Vuestra compañía es lo único que nos hace falta para que el día sea perfecto.
 
 ---
 
@@ -22,7 +22,7 @@ Esto es solo una orientación; por supuesto, cualquier detalle hecho con cariño
 **IBAN**
 
 ```text
-ES80 2100 5398 8313 0044 734
+ES80 2100 5398 8313 0044 7349
 ```
 
 

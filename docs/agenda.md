@@ -31,7 +31,7 @@ subtitle: "Horarios del 28 de noviembre"
 <iframe src="https://www.google.com/maps/d/embed?mid=1YE21z1C2UV0wNTCScTjXG7VKzeC8nLw&hl=es&ehbc=2E312F" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ### Enlaces directos a las ubicaciones:
-- [Iglesia - Real Iglesia Parroquial de Santiago y San Juan Bautista](https://maps.app.goo.gl/h1dHBZWF3duKLoKF6)
+- [Iglesia - Real Iglesia Parroquial de Santiago y San Juan Bautista](https://maps.app.goo.gl/6PcwinZLPatsDPndA)
 - [Banquete - Normandie Ondarreta](https://maps.app.goo.gl/i72XsK6MhiXoR7C96)
 
 ---
