@@ -5,7 +5,7 @@ main:
     url: "/agenda/"
   - title: "Dress code"
     url: "/dress-code/"
-  - title: "Confirmacion"
+  - title: "Confirmación"
     url: "/confirmacion/"
   - title: "Regalos"
     url: "/regalos/"

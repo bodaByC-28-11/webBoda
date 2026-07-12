@@ -1,5 +1,5 @@
 ---
-title: "Confirmacion"
+title: "Confirmación"
 permalink: /confirmacion/
 subtitle: "Confirma tu asistencia"
 ---
